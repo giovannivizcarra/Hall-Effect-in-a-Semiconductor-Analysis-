@@ -1,1 +1,1 @@
-# Hall-Effect-in-a-Semiconductor-Analysis-
+# Hall Effect in a Semiconductor Analysis 
